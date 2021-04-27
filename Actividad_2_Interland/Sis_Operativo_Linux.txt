@@ -1,0 +1,35 @@
+Use el editor de texto NANO para escribir este texto en la consola Linux.😆️
+
+Distribución de Linux : una distribución es una recopilación de software ya compilado y empaquetado para facilitar su instalación y configuración. Una distribución Linux es un conjunto de software acompañado del núcleo Linux que se enfoca a satisfacer las necesidades de un grupo específico de usuarios. 
+
+Familias de distribuciones (Debian, Arch, Red Hat, etc)
+
+
+
+La primera versión de UNIX, llamada Unics, fue escrita en 1969 por Ken Thompson. Corría en una computadora PDP-7 de Digital. Más adelante, los laboratorios Bell, el MIT y General Electric se 
+involucraron en la creación del sistema Multics, grande en tamaño, y el primer sistema de tiempo compartido que incluía muchas ideas innovadoras acerca de sistemas operativos. Thompson y 
+algunos de sus colegas admiraban las capacidades de Multics; sin embargo, pensaban que era demasiado complicado. Su idea era demostrar que era posible construir un sistema operativo que 
+proporcionara un ambiente de desarrollo cómodo de una forma más simple. Y afortunadamente, tuvieron un éxito admirable en el desarrollo de esta idea; a pesar de esto, UNIX es irónicamente 
+mucho más complicado de lo que Multics nunca llegó a ser. En 1970 Thompson, junto con Dennis Ritchie, portó UNIX a la PDP-11/20. Ritchie diseñó y escribió el primer compilador de C para 
+proveer un lenguaje que pudiera ser usado para escribir una versión portátil del sistema. En 1973, Ritchie y Thompson reescribieron el kernel de UNIX, el corazón del sistema operativo, en C. 
+Inicialmente se otorgaron licencias gratuitas para utilizar UNIX a universidades con propósitos meramente educativos (en 1974). Esta versión fue la quinta edición (las edicio- nes hacen 
+referencia a las ediciones del manual de referencia de UNIX). La sexta edición fue liberada en 1975; sin embargo, fue hasta la séptima edición, liberada por los labora- torios Bell en 1979, 
+donde se logró la meta deseada: portabilidad; esta edición fue la que sirvió como punto de partida para la generación de este nuevo y maravilloso mundo: el mundo UNIX. Ésta es considerada la 
+edición clásica de UNIX. Las dos vertientes más fuertes creadas a partir de esta edición de UNIX son: System V (no confundirlo con la quinta edición) y el sistema BSD (Berkeley Software 
+Distribution). A pesar de que ambos sistemas surgieron de la misma influencia y comparten muchas características, los dos sistemas se desarrollaron con personalidades muy distintas. System V 
+es más conservador y sólido; mientras que BSD es más innovador y experimental. System V era un sistema comercial, mientras que BSD no. La historia es mucho más detallada y aún hay mucho que 
+contar acerca del desarrollo de cada una de estas vertientes, de las cuales surgieron todavía muchas vertientes más de UNIX. En el caso de la licenciatura en Ciencias de la Computación en la 
+Facultad de Ciencias, como en muchas otras universidades de prestigio, el servicio al que acceden los estudiantes y la mayoría de los profesores es utilizando una implementación de UNIX, 
+Linux, con computadoras conectadas en una red, por lo que todo lo que sucede entre los estudiantes y la computadora será en el contexto de esta red.
+
+Los sistemas compatibles UNIX libres 1 para la arquitectura i386, notablemente Linux y FreeBSD, han hecho de UNIX un sistema al alcance de cualquiera. Estos sistemas proveen excelente 
+rendimiento y vienen con un conjunto de características y herramientas estándar de UNIX. Son tan robustos que incluso muchas empresas han basado su desarrollo en alguno de estos sistemas. 
+Dado que estos sistemas no contienen software propietario pueden ser usados, copia- dos y distribuidos por cualquiera (incluso gratis). Las copias de estos sistemas se pueden conseguir en 
+CD-ROM o bien por medio de Internet. Linux. Linux es una versión de UNIX libre, originada por Linus Torvalds en la Universi- dad de Helsinki en Finlandia. Fue inspirado por Minix – escrito 
+por Andrew Tanen- baum – y sigue más o menos las convenciones de System V. Su desarrollo ha sido llevado a cabo por programadores (hackers, wizards) de todo el mundo, coordinados por Linus a 
+través de Internet. Una gran cantidad de código incluida en el "sistema operativo Linux" 2 es GNU y la versión de X es XFree86. Hay varias distribuciones de Linux y algunas de las más 
+importantes son: Ubuntu: http://www.ubuntu.com/ (y Kubuntu, la distribución que utilizamos en este trabajo: http://www.kubuntu.org/) Fedora: http://fedora.redhat.com/
+
+En este contexto libre, es una traducción literal de free que no significa gratis, (como en cervezas gratis), sino significa libre (como en libertad de expresión). Un sistema operativo es un 
+conjunto de programas que controla y administra los recurs Debian: http://www.debian.org/ openSUSE: http://www.opensuse.org/ FreeSpire: http://freespire.org/ Linux se distribuye bajo la 
+licencia GPL (General Public Licence), que es conocida como CopyLeft y que representa gran parte de la idiosincrasia del mundo UNIX libre.
